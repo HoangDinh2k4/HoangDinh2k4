@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 Currently learning: Python, SQL, Big Data frameworks
 -->
 
-## 🔗 Connect with me 
-[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile](https://www.facebook.com/bechanh.vn?locale=vi_VN))  
+## 🔗 Connect with me  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bechanh.vn?locale=vi_VN) 
